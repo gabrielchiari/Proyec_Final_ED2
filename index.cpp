@@ -1,14 +1,10 @@
-/*
-*   C++ - Metodo de dispersion (Hashing)
-*   Copyright 2013 Martin Cruz Otiniano
-*   Site: martincruz.me
-*/
-
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 using namespace std;
+
+
 
 struct registro{
     int  nr;
